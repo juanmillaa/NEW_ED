@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/juanma/Escritorio/ED/codigo/estudiante/src/negativo.cpp
+iostream
+-
+cstring
+-
+cstdlib
+-
+image.h
+-
+
+estudiante/include/image.h
+cstdlib
+-
+imageIO.h
+estudiante/include/imageIO.h
+
+estudiante/include/imageIO.h
+

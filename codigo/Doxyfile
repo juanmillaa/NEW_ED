@@ -1,0 +1,6 @@
+PROJECT_NAME           = "Práctica 1. Imágenes"
+OUTPUT_DIRECTORY       = /home/juanma/Escritorio/ED/codigo/doc_doxygen/
+INPUT                  = /home/juanma/Escritorio/ED/codigo/estudiante/include /home/juanma/Escritorio/ED/codigo/estudiante/src /home/juanma/Escritorio/ED/codigo/estudiante/doc
+GENERATE_LATEX         = NO
+IMAGE_PATH             = /home/juanma/Escritorio/ED/codigo/estudiante/doc
+EXTRACT_PRIVATE        = NO

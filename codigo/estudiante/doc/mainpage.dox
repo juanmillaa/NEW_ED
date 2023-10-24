@@ -1,0 +1,26 @@
+/*! \mainpage Título de la página principal
+
+@image html doxyque.png "Pie de foto"
+
+# Introducción
+
+TRABAJO REALIZADO POR JUAN MANUELJIMÉNEZ ÁLVAREZ Y MANUEL GÓMEZ RUBIO
+
+
+Este trabajo es un TDA IMAGEN, con el que se pueden realizar varias operaciones sobre las imagenes
+que se encuentran en imageop.cpp. Estas operaciones son la inversion de una imagen, el zoom x2 de una imagen, ajuste de contraste de una imagen y redimensionar una imagen. Todas estas operaciones vienen especificadas posteriormente en este pdf.
+
+# Ejecutables
+
+@image html invert.png
+## Negativo:
+
+Calcula el negativo de una imagen
+
+> __negativo__ \<FichImagenOriginal\> \<FichImagenDestino\>
+@param "<FichImagenOriginal>" Imagen PGM a la que se va a calcular
+@param <FichImagenDestino> Imagen PGM resultado de calcular el negativo
+
+
+
+*/
